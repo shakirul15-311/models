@@ -22,6 +22,7 @@ Tensorflow using one of the following commands:
 pip install tensorflow
 # For GPU
 pip install tensorflow-gpu
+
 ```
 
 The remaining libraries can be installed on Ubuntu 16.04 using via apt-get:
